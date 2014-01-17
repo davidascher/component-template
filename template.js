@@ -58,6 +58,9 @@ exports.template = function(grunt, init, done) {
       "grunt-contrib-connect": "~0.5.0",
       "grunt-open": "~0.2.2",
       "grunt-contrib-watch": "~0.5.3"
+      "grunt-contrib-jshint": "~0.6.3",
+      "grunt-contrib-csslint": "~0.1.2",
+      "grunt-lint-inline": "~0.3.2"
     };
 
     // Files to copy (and process).
